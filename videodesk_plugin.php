@@ -2,7 +2,7 @@
 	/*
 	Plugin Name: Official VideoDesk plugin
   Plugin URI: http://www.videodesk.com
-	Description: Offer face-to-face customer service on your website via text, audio or video chat.
+	Description: Official Plugin - Offer face-to-face customer service on your website via text, audio or video chat.
 	Author: Zihad Dubois
 	Version: 1.0
   Text Domain: videodesk_plugin
