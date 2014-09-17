@@ -7,8 +7,6 @@ Stable tag: 1.0
 License:  GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.htmlOFFICIAL Version of the videodesk plugin - 
 
-Offer face-to-face customer service on your website via text, audio or video chat.
-
 == Description ==
 <strong>Official Videodesk live chat Plugin  for WordPress :</strong>
 Videodesk is the ultimate, free WordPress live chat plugin for your website or blog. Sign up today for free forever unlimited text chat, 2 chat accounts and 10 hours of video chat every month. The chat window can be displayed in over 19 languages and the back office is available in English, French, Spanish, German and Portuguese.<br /><br />Videodesk works on all websites and all browsers, it is extremely easy to set-up and even easier to use. It requires no signups or downloads for visitors - they can start a chat at the click of a button and immediately get in touch with an available agent.<br /><br />Color-coordinate your chat window with your website colors, customize your greetings, integrate the videodesk back office into your WordPress back office, and bring live human interaction to your website. 
@@ -27,11 +25,11 @@ English, French, Spanish, German, Portuguese, Chinese, Czech, Danish, Dutch, Fin
 
 <strong>What our customers say about videodesk</strong>
 
-<blockquote>“Since we started using videodesk, we have engaged quality clients on our websites, and video chat has made a positive impression on our online visitors. It has also humanized the existing virtual contact we have had with our prospects and clients." </blockquote>
+<blockquote>Since we started using videodesk, we have engaged quality clients on our websites, and video chat has made a positive impression on our online visitors. It has also humanized the existing virtual contact we have had with our prospects and clients. </blockquote>
 
-<blockquote>“We have successfully used videochat to stand out from our competitors and have authentic conversations with candidates and recruiters. Videodesk has made the pre-interview process for our recruitment consultants much simpler and quicker."</blockquote>
+<blockquote>We have successfully used videochat to stand out from our competitors and have authentic conversations with candidates and recruiters. Videodesk has made the pre-interview process for our recruitment consultants much simpler and quicker.</blockquote>
 
-<blockquote>“Thank you for the simplicity and easy setup of your solution. We started using it for our charitable trust as well as on our online store - it is a beautiful way to reach out to our contributors, visitors and prospects. We wish your company great success!"</blockquote>
+<blockquote>Thank you for the simplicity and easy setup of your solution. We started using it for our charitable trust as well as on our online store - it is a beautiful way to reach out to our contributors, visitors and prospects. We wish your company great success!</blockquote>
 
 <strong>Scalable, high-value solution for large enterprises</strong>
 The solution is entirely scalable to any company or team size and if you need to upgrade to industry-leading tools such as co-browse, dual camera for product demos, two-way video, in-chat pdf sharing and much more, we can set you up with our entirely customized, paid Enterprise plan. 
