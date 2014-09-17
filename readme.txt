@@ -1,4 +1,4 @@
-=== VideoDesk plugin ===
+=== Official VideoDesk plugin ===
 Contributors: ZihadD
 Tags: videodesk
 Requires at least: 3.1.4
@@ -9,8 +9,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.htmlOFFICIAL Version of the vid
 
 Offer face-to-face customer service on your website via text, audio or video chat.
 
-== Description ==
-This fully functionning plugin, released by the videodesk team, will enable you to use the video chat solution within your Wordpress Dashboard. Just a few clicks and that's a go
+== Description ==Official and fully functionning plugin, released by the videodesk team, will enable you to use the video chat solution within your Wordpress Dashboard. Just a few clicks and that's a go
 
 == Installation ==
 1. Activate the plugin through the \'Plugins\' menu in WordPress
