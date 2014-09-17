@@ -1,4 +1,4 @@
-=== Official VideoDesk plugin ===
+=== Official videodesk Plugin ===
 Contributors: ZihadD
 Tags: videodesk
 Requires at least: 3.1.4
