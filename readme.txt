@@ -17,7 +17,7 @@ Offer face-to-face customer service on your website via text, audio or video cha
 3. Fill-in UID on backend form
 
 == Frequently Asked Questions ==
-None
+None== Screenshots ==1. screenshot-1 2. screenshot-2
 
 == Changelog ==
 1.0.0 - Initial version
