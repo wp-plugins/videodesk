@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: videodesk_plugin\n"
+"POT-Creation-Date: 2014-09-01 11:27+0100\n"
+"PO-Revision-Date: 2014-09-01 11:47+0100\n"
+"Last-Translator: \n"
+"Language-Team: Videodesk\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: C:\\wamp\\www\\wp-plugin\\wp-content\\plugins"
+"\\videodesk_plugin\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: videodesk_plugin.php:5
+msgid ""
+"Offer face-to-face customer service on your website via text, audio or video "
+"chat."
+msgstr ""
+"Fournit un service de mise en relation avec vos clients sur votre site Web "
+"via tchat texte, audio ou vidéo."
+
+#: videodesk_plugin.php:44
+msgid "Videodesk parameters"
+msgstr "Paramètres Videodesk"
+
+#: videodesk_plugin.php:56
+msgid ""
+"Already registered ? Your Videodesk Website ID is available in the Videodesk "
+"back-office (<a href=\"http://my.videodesk.com\">my.videodesk.com</a>), in "
+"the \"Website > Set up > Installation code\" menu. <br>Not registered? "
+"Please go to <a href=\"http://www.videodesk.com\">videodesk.com</a> and sign "
+"up for free in 2 minutes and get your Videodesk Website ID."
+msgstr ""
+"Déjà inscrit ? Votre Videodesk Website ID est disponible dans le back-office "
+"Videodesk (<a href=\"http://my.videodesk.com\">my.videodesk.com</a>), dans "
+"le menu  \"Site > Général > Code d'installation\".<br>Pas encore inscrit ? "
+"Allez sur <a href=\"http://www.videodesk.com\">videodesk.com</a> et "
+"inscrivez-vous gratuitement en 2 minutes pour obtenir votre Videodesk "
+"Website ID."
+
+#: videodesk_plugin.php:61
+msgid "Display Videodesk"
+msgstr "Affichage de Videodesk"
+
+#: videodesk_plugin.php:63
+msgid "activated"
+msgstr "activé"
+
+#: videodesk_plugin.php:64
+msgid "deactivated"
+msgstr "désactivé"
+
+#: videodesk_plugin.php:68
+msgid "Save Changes"
+msgstr "Sauvegarder"
+
+#: videodesk_plugin.php:71
+msgid "Please enter your Videodesk Website ID"
+msgstr "Veuillez introduire votre Videodesk Website ID"
+
+#: videodesk_plugin.php:75
+msgid "Please state if you want to display the module"
+msgstr "Veuillez indiquer si vous souhaitez afficher le module"
