@@ -1,10 +1,10 @@
 <?php
 	/*
-	Plugin Name: Official videoDesk Plugin
+	Plugin Name: VideoDesk plugin
   Plugin URI: http://www.videodesk.com
 	Description: Offer face-to-face customer service on your website via text, audio or video chat.
-	Author: Zihad Dubois
-	Version: 1.0
+	Author: VideoDesk Team + Zihad D.
+	Version: 1.1
   Text Domain: videodesk_plugin
 	*/
 
@@ -110,9 +110,14 @@ add_action('wp_head', 'insert_script');
       $lang = get_locale();
       $paramLang = substr($lang,0,2);
       $comment= get_comment_ID();
-      $name = get_comment_author($comment);
+      $name = $comment == NULL ? '' : get_comment_author($comment);
       $website = get_comment_author_url();
       $email = get_comment_author_email();
+
+      if($paramLang == 'ja') {
+       $paramLang = 'jp' ;
+      }
+
 
     	if (get_option('display_option') == "1"){ //if user selected to display the module in the parameters, insert the script
     	
@@ -134,6 +139,7 @@ add_action('wp_head', 'insert_script');
       _videodesk['module'] = 'wordpress' ; 
       _videodesk['module_version'] = '1.0' ;
       _videodesk['display'] = 'on' ;
+      _videodesk['localstorage'] = 1;
 
       _videodesk['uid'] = '".get_option('uid')."' ;
 
