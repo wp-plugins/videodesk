@@ -4,7 +4,7 @@
   Plugin URI: http://www.videodesk.com
 	Description: Offer face-to-face customer service on your website via text, audio or video chat.
 	Author: VideoDesk Team + Zihad D.
-	Version: 1.1
+	Version: 1.1.0
   Text Domain: videodesk_plugin
 	*/
 
